@@ -1,6 +1,7 @@
 
 
-Neurosymbolic Ad Recommendation System
+Neurosymbolic Ad Recommendation System-
+
 This project bridges neural networks with cognitive architectures and is an exploration of deep neurosymbolic learning where I developed my machine learning and data-focused skills. It implements a hybrid recommendation engine that combines deep learning with cognitive modeling to predict user ad interactions. It bridges standard neural network click-through rate (CTR) prediction with human-like decision simulations using ACT-R cognitive architecture concepts, while also actively mitigating socioeconomic bias in the recommendation pipeline.
 
 Key Features
